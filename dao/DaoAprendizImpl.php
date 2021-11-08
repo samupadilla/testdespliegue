@@ -4,8 +4,7 @@ include ('../conexion/conexion.php');
 include ('../modelo/Aprendiz.php');
 
 class DaoAprendizImpl extends Conexion implements DaoAprendiz{
-   
-    
+       
     public function registrar(Aprendiz $a){ 
         try{
         if ($this->getCnx()!=null) {
