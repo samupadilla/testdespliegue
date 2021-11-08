@@ -1,6 +1,6 @@
 {
     "name": "testdespliegue ",
-    "homepage": "http://adsi.clubcoderos.com/",
+    "homepage": "http://adsi2.clubcoderos.com/",
     "repositories": [
         { "type": "git", "url": "https://github.com/samupadilla/testdespliegue.git" }
     ],
